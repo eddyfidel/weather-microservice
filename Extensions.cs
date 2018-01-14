@@ -1,4 +1,4 @@
-namespace weather_microservice
+namespace WeatherMicroservice
 {
     public static class Extensions
     {

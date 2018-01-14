@@ -1,6 +1,6 @@
 using System;
 
-namespace weather_microservice
+namespace WeatherMicroservice
 {
     public class WeatherReport
     {

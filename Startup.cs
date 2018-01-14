@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace weather_microservice
+namespace WeatherMicroservice
 {
     public class Startup
     {
